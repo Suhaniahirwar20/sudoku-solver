@@ -4,7 +4,7 @@ This is a C++ implementation of a Sudoku Solver using backtracking. The program 
 <br>
 
 ****Features**** <br>
-Solves any standard 9x9 Sudoku puzzle.
-Validates the placement of digits in rows, columns, and 3x3 subgrids.
-Provides clear input and output to showcase the original and solved boards.
-Demonstrates backtracking and recursive problem-solving techniques.
+Solves any standard 9x9 Sudoku puzzle.<br>
+Validates the placement of digits in rows, columns, and 3x3 subgrids.<br>
+Provides clear input and output to showcase the original and solved boards.<br>
+Demonstrates backtracking and recursive problem-solving techniques.<br>
